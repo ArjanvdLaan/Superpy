@@ -1,0 +1,7 @@
+product ID,product name, buy date,price,expiration-date, quantity
+1,Kiwi,2023-07-02,3.0,2023-06-24,1
+2,cauliflower,2023-07-02,2.0,2023-06-24,1
+3,Brocolli,2023-07-02,2.0,2023-06-22,1
+4,avocado,2023-07-02,5.0,2023-06-29,1
+5,milk,2023-07-02,3.0,2023-06-26,1
+6,bread,2023-06-07,2.0,2023-06-15,1
